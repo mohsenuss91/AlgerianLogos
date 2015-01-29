@@ -1,2 +1,2 @@
 # AlgerianLogos
-This repository contains some Algerian official logos.
+This repository contains some Algerian official (.SVG) logos.
